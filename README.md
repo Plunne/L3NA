@@ -1,4 +1,4 @@
-# L3NA
+# L3N-A
 
 L3N-A, my personnal discord Bot. ❤️
 
